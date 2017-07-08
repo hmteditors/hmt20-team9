@@ -105,7 +105,7 @@ object Paleography {
         val splits = img.get.objectComponent.split("@")
         val binaryImage =              s"${imgUrlBase}${splits(0)}.tif&RGN=${img.get.objectExtension}&WID=${imageSize}&CVT=JPEG"
         println(binaryImage)
-        s"![${reading}(${binaryImage})"
+        s"![${reading}](${binaryImage})"
 
         //s"![reading](${imgUrlBase}${splits(0)}.tif&RGN=${img.get.objectExtension}&WID=${imageSize}&CVT=JPEG])"
        } else {img}
