@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-      <editor></editor>
+      <editor>Ineke Sluiter</editor>
+      <editor>Tazuko van Berkel</editor>
       </titleStmt>
       <editionStmt>
         <p>HMT edition</p>
@@ -20,8 +21,31 @@
   <text>
     <body>
       <div n="20">
-        <l n="1"></l>
-
+        <l n="76"><persName n="urn:cite2:hmt:pers:pers172">Ἕκτορος</persName> ἄντα μάλιστα λιλαίετο δῦναι ὅμιλον</l>
+        <l n="77"><persName n="urn:cite2:hmt:pers:pers172">Πριαμίδεω</persName>. τοῦ γάρ ῥα μάλιστά γε θυμὸς ἀνώγει</l>
+        <l n="78">αἵματος ᾶσαι <persName n="urn:cite2:hmt:pers:pers83">Ἄρηα</persName> ταλαύρινον πολεμιστήν·</l>
+        <l n="79"><persName n="urn:cite2:hmt:pers:pers142">Αἰνείαν</persName> δ᾽ ἰ¨θὺς λαοσσόος ὦρσεν Ἀπόλλων</l>
+        <l n="80">ἀντία <persName n="urn:cite2:hmt:pers:pers1">Πηλείωνος</persName>. ἐνῆκε δέ οἱ μένος ἠΰ·</l>
+        <l n="81">υἱέϊ δὲ <persName n="urn:cite2:hmt:pers:pers145">Πριάμοιο</persName> <persName n="urn:cite2:hmt:pers:pers140">Λυκάονι</persName> εἴσατο φωνήν·</l>
+        <l n="82">τῷ μιν ἐεισάμενος προσέφη <persName n="urn:cite2:hmt:pers:pers8">Διὸς</persName> υἱὸς <persName n="urn:cite2:hmt:pers:pers40">Ἀπόλλων</persName>·</l>
+        <l n="83"><persName n="urn:cite2:hmt:pers:pers142">Αἰνεία</persName>. <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρώων</rs> βουληφόρε ποῦ τοι ἀπειλαὶ.</l>
+        <l n="84">ἃς <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρώων</rs> βασιλεῦσιν ὑπίσχεο οἰνοποτάζων.</l>
+        <l n="85"><persName n="urn:cite2:hmt:pers:pers1">Πηλείδεω Ἀχιλῆος</persName> ἐναντίβιον πολεμίξειν.</l>
+        <l n="86">τὸν δ᾽ αὖτ᾽ <persName n="urn:cite2:hmt:pers:pers142">Αἰνείας</persName> ἀπαμειβόμενος προσέειπε·</l>
+        <l n="87"><persName n="urn:cite2:hmt:pers:pers140">Πριαμίδη</persName>. τί με ταῦτα καὶ οὐκ ἐθέλοντα κελεύεις</l>
+        <l n="88">ἀντία <persName n="urn:cite2:hmt:pers:pers1">Πηλείωνος</persName> ὑπερθύμοιο μάχεσθαι·</l>
+        <l n="89">οὐ μὲν γὰρ νῦν πρῶτα ποδώκεος ἄντ᾽ <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλῆος</persName></l>
+        <l n="90">στήσομαι. ἄλλ᾽ ἤδη με καὶ ἄλλοτε δουρὶ φόβησεν·</l>
+        <l n="91">ἐξ Ἴ¨δης ὅτε βουσὶν ἐπήλυθεν ἡμετέρῃσιν.</l>
+        <l n="92">πέρσε δὲ <placeName n="urn:cite2:hmt:place:place59">Λυρνησσὸν</placeName> καὶ <choice><sic><placeName n= "urn:cite2:hmt:place:place266">Πήδασσον</placeName></sic><corr><placeName n= "urn:cite2:hmt:place:place266">Πήδασον</placeName></corr></choice>, αὐτὰρ ἐμὲ Ζεὺς</l>
+        <l n="93">εἰρύσαθ᾽ ὅς μοι ἐπῶρσε μένος λαιψηρά τε γοῦνα.</l>
+        <l n="94">ῆ κ᾽ ἐδάμην ὑπὸ χερσὶν <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλῆος</persName> καὶ <persName n="urn:cite2:hmt:pers:pers67">Ἀθήνης</persName>.</l>
+        <l n="95">ἥ οἱ πρόσθεν ϊοῦσα τίθει φάος. ἠδ᾽ ἐκέλευεν</l>
+        <l n="96">ἔγχεϊ χαλκείῳ <rs type="ethnic" n="urn:cite2:hmt:place:place266">Λέλεγας</rs> καὶ <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρῶας</rs> ἐναίρειν·</l>
+        <l n="97">τὼ οὐκ ἐστ᾽ <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλῆος</persName> ἐναντίον ἄνδρα μάχεσθαι.</l>
+        <l n="98">αἰεὶ γὰρ πάρα εἷς γε θεῶν. ὃς λοιγὸν ἀμύνει·</l>
+        <l n="99">καὶ δ᾽ ἄλλως τοῦ γ᾽ ἰ¨θὺς βέλος πέτετ᾽. οὐδ᾽ἀπολήγει.</l>
+        <l n="100">πρὶν χροὸς ἀνδρομέοιο διελθεῖν. εἰ δὲ θεός περ</l>
       </div>
     </body>
   </text>
