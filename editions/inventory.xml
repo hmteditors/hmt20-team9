@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="./schemas/TextInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TextInventory  tiid="hmt"  tiversion="6.0.0"  xmlns="http://chs.harvard.edu/xmlns/cts"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <ctsnamespace    abbr="greekLit"    ns="http://chs.harvard.edu/ctsns/greekLit">
+    <description      xml:lang="eng"> The First Thousand Years of Greek project's inventory of Greek texts. </description>
+  </ctsnamespace>
+
+  <textgroup urn="urn:cts:greekLit:tlg0012:">
+    <groupname xml:lang="eng">Homeric poetry</groupname>
+    <work urn="urn:cts:greekLit:tlg0012.tlg001:" xml:lang="grc">
+      <title xml:lang="eng">Iliad</title>
+      <edition urn="urn:cts:greekLit:tlg0012.tlg001.msA:">
+        <label xml:lang="eng">Venetus A manuscript</label>
+        <description xml:lang="eng">in-progress edition</description>
+        <online/>
+
+    </edition>
+  </work>
+</textgroup>
+</TextInventory>
