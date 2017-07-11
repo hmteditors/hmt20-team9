@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>Venetus A Interior Scholia</title>
                 <author>Ineke Sluiter</author>
-
+                <author>Tazuko van Berkel</author>
                 <author>Olga Levaniouk</author>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +46,7 @@
                           <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:9.329</ref><q>πεζὸς δ' ἐνδεκά φημι·'</q></cit>
                           νῦν δὲ καὶ <choice><sic>ἀξιόπιστοσερον</sic><corr>ἀξιοπιστότερον</corr></choice> τὸ παρα τοῦ πολεμιου ἐγκώμιον ⁑ </p>
                     </div>
-                  </div>ῆ
+                  </div>
                   <div n="9_3" type="scholion">
                     <div type="lemma">
                         <p>καὶ δε σὲ φασὶν</p>
@@ -58,6 +58,7 @@
                         <p>ὁ  <persName n="urn:cite2:hmt:pers:pers485">Ἀσκαλονίτης</persName>  ὠρθοτόνησε τὴν ἀντονωμίαν τὸν <rs type = "waw"> δε </rs> σύνδεσμον ἀντι τοῦ <rs type = "waw"> γὰρ </rs>
                         παραλαμβανων καὶ οὕτως ἔχει τὰ τῆς γνώσεως καὶ τῆς διανοίας ⁑</p>
                     </div>
+                  </div>
                     <div n="9_4" type="scholion">
                       <div type="lemma">
                           <p>ἡ μὲν γαρ <choice><sic>Διός</sic> <corr>Διὸς </corr> </choice> ἔσθ’.</p>
@@ -69,7 +70,8 @@
                           <p>σεσημείωται προς τοὺς εξῆς ἀριθμοὺς ἄκαιρον γενεαλογίαν ἔχοντας
                             καὶ <choice><sic> <unclear> ὅτει </unclear></sic> <corr>ὅτι</corr></choice> ἐκ Διὸς ἡ Ἀφροδίτη καθ Ὅμηρον ⁑</p>
                       </div>
-                      <div n="9_5" type="scholion">
+                    </div>
+                    <div n="9_5" type="scholion">
                         <div type="lemma">
                             <p>λευγαλέοις ἐπέεσσιν, </p>
                         </div>
@@ -79,7 +81,8 @@
                         <div type="comment">
                             <p> ὅτι λευγαλέοις οὐ διύγροις ὡς οἱ νεώτεροι ἀλλ ὀλεθρίοις παρα τὸν <rs type = "waw"> λοιγόν </rs> ⁑</p>
                         </div>
-                        <div n="9_6" type="scholion">
+                      </div>
+                      <div n="9_6" type="scholion">
                           <div type="lemma">
                               <p>ἀνα <choice><sic>ουλαμόν </sic> <corr>ουλαμὸν</corr> </choice></p>
                           </div>
@@ -89,7 +92,49 @@
                           <div type="comment">
                               <p>οὐλαμὸν τὸ πύκνωμα ἀπο τῆς <rs type = "waw"> οὐλότητος </rs> ἠ τὴν εἴλησιν ⁑</p>
                           </div>
-
+                        </div>
+                        <div n="9_7" type="scholion">
+                          <div type="lemma">
+                              <p>ἡ δ' ἄμυδις καλέσασα.</p>
+                          </div>
+                          <div type="ref">
+                              <p>unr:cts:greekLit:tlg0012.tlg001:20.114</p>
+                          </div>
+                          <div type="comment">
+                              <p>ὅτι <persName n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persName> γράφει <rs type="waw">θεοὺς ῥεία ζώοντας</rs> ἐξ οῦ φανερός ἐστι
+                            κατα τὸ περισπώμενον ἀνεγνωκώς <rs type="waw">ῆ δ' άμυδις</rs> ἴν' ᾗ ἔφη ὡς ἐκεῖ. <q>ῆ καὶ κυανέῃσιν</q>. ἠγνόηκε δὲ ὅτι ἐπί τισι προειρημένοις τίθεσται
+                            παρ <persName n="urn:cite2:hmt:pers:pers17">Ὁμήρῳ</persName> τὸ <rs type="waw">η</rs> οὐκ εν αρχῇ λόγου ⁑ </p>
+                          </div>
+                        </div>
+                        <div n="9_8" type="scholion">
+                          <div type="lemma">
+                              <p>ἡ δ' άμυδις:</p>
+                          </div>
+                          <div type="ref">
+                              <p>unr:cts:greekLit:tlg0012.tlg001:20.114</p>
+                          </div>
+                          <div type="comment">
+                              <p><persName n="urn:cite2:hmt:pers:pers16">Ἀρίσταρχος</persName> τὸ <rs type="waw">η</rs> ἄρθρὸν ἐκδεχεται <persName n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persName> δὲ
+                            περιέσπασε καὶ ἐψίλωσεν ῥῆμα ἐκδεξάμενος ὁμοιως τῷ <q>ῆ καὶ κυανέῃσιν</q>. ἵν' ᾖ τὸ όλον μεταποῖει <rs type="waw">ἡ δ' άμυδις καλέσασα θεοὺς ῥεια ζώοντας</rs>.
+                            ἡγνόησε δὲ ὡς ὁ ποιητῆς οὐ χρῆται τῷ· ῥήματι ἐν αρχῇ λόγου ἀλλα τοῖς ῥηθεῖσιν ἐπιλέγει καὶ τούτῳ γε, παραυτῷ <choice><abbr>διαφε</abbr><expan>διαφέρει</expan></choice>
+                            τοῦ <rs type="waw">ἐφη</rs> ὅτι τὸ μὲν καὶ προτάττεται καὶ ὑποτάττεται. <persName n="urn:cite2:hmt:pers:pers16">Ἀρίσταρχος</persName> δὲ <rs type="waw">ἡ δ' ἄμυδις στήσασα</rs>
+                            καὶ αἱ πλεῖσται. τὸ δὲ <rs type="waw">ἄμυδις</rs> ψιλωτεόν καίτοι παρα τὸ ἅμα γενόμενον ἐπεὶ <rs type="ethnic" n="urn:cite2:hmt:place:place77">Αἰολικον</rs> χαρακτῆρα ἀνεδέξατο ⁑</p>
+                          </div>
+                        </div>
+                        <div n="9_9" type="scholion">
+                          <div type="lemma">
+                              <p>πάντες δ' <placeName n="urn:cite2:hmt:place:place45">Οὐλύμποιο</placeName>:</p>
+                          </div>
+                          <div type="ref">
+                              <p>unr:cts:greekLit:tlg0012.tlg001:20.125</p>
+                          </div>
+                          <div type="comment">
+                              <p>ἕως τοῦ <rs type="waw">γεινομένω ἐπένησε</rs> ἀθετοῦνται στίχοι τέσσαρες ὅτι τοῦναντίον ὁ <persName n="urn:cite2:hmt:pers:pers8">Ζεῦς</persName> λέγει.
+                              <cit><ref>urn:cts:greekLit:tlg0012.tlg001:20.26-20.27</ref><q>εἰ γαρ <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεὺς</persName> οἶος ἐπι <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρώεσσι</rs> μάχεται·
+                              οὐδε μίνυνθ' ἔξουσι</q></cit> καὶ σώζει μᾶλλον τὴν <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλέως</persName> ἀξίαν. ἡ δε <persName n="urn:cite2:hmt:pers:pers116">Ἥρα</persName> φησὶ
+                              τοὺς θεοὺς κατεληλυθέναι ὅπως μὴ πάθῃ τι ὑπο τῶν <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρώων</rs> ὁ <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεύς</persName> ⁑</p>
+                          </div>
+                        </div>
                 </body>
             </text>
         </group>
