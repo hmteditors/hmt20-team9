@@ -4,7 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Venetus A Exterior Scholia</title>
-                <author>YOUR NAME HERE</author>
+                <author>Ineke Sluiter</author>
+                  <author>Olga Levaniouk</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -18,15 +19,15 @@
         <group n="20">
             <text n="msAext">
                 <body>
-                    <div n="TEAM_1" type="scholion">
+                    <div n="9_1" type="scholion">
                         <div type="lemma">
-                            <p>LEMMA GOES HERE</p>
+                            <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001:20.ILIAD LINE COMMENTED ON</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001:20.125</p>
                         </div>
                         <div type="comment">
-                            <p>TEXT OF SCHOLION</p>
+                            <p> <persName n= "urn:cite2:hmt:pers:pers47" > Ποσείδαων </persName> </p>
                         </div>
                     </div>
                 </body>
