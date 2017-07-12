@@ -30,6 +30,28 @@
                             <p> <persName n= "urn:cite2:hmt:pers:pers47" > Ποσείδαων </persName> </p>
                         </div>
                     </div>
+                    <div n="9_2" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001:20.138</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἄρχηισι</p>
+                        </div>
+                    </div>
+                    <div n="9_3" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001:20.149</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite2:hmt:pers:pers47">Ποσειδάων</persName></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
