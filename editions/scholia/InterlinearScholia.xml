@@ -74,6 +74,39 @@
                           <p>διώξειεν ⁑</p>
                       </div>
                   </div>
+                  <div n="9_6" type="scholion">
+                      <div type="lemma">
+                          <p></p>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.157</p>
+                      </div>
+                      <div type="comment">
+                          <p>ποιὸν ῆχον ἀπετέλει</p>
+                      </div>
+                  </div>
+                  <div n="9_7" type="scholion">
+                      <div type="lemma">
+                          <p></p>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.162</p>
+                      </div>
+                      <div type="comment">
+                          <p>ἐπινεύων</p>
+                      </div>
+                  </div>
+                  <div n="9_8" type="scholion">
+                      <div type="lemma">
+                          <p></p>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.168</p>
+                      </div>
+                      <div type="comment">
+                          <p>συνείληπται</p>
+                      </div>
+                  </div>
                 </body>
             </text>
         </group>
