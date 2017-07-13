@@ -5,6 +5,7 @@
             <titleStmt>
                 <title>Venetus A Interior Scholia</title>
                 <author>Ineke Sluiter</author>
+                <author>Olga Levaniouk</author>
                 <author>Tazuko van Berkel</author>
             </titleStmt>
             <publicationStmt>
@@ -105,8 +106,41 @@
                               <p>urn:cts:greekLit:tlg0012.tlg001:20.143</p>
                           </div>
                           <div type="comment">
-                              <p> γράφεται <rs type="waw">ἀναγκαίηφι</rs> ⁑
-                </p>
+                              <p> γράφεται <rs type="waw">ἀναγκαίηφι</rs> ⁑   </p>
+                          </div>
+                      </div>
+                      <div n="9_9" type="scholion">
+                          <div type="lemma">
+                              <p>LEMMA GOES HERE</p>
+                          </div>
+                          <div type="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.156</p>
+                          </div>
+                          <div type="comment">
+                              <p><choice><abbr><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχ</persName></abbr><expan><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName></expan></choice>
+                              Ϊακῶς <rs type="waw">λάμπετο</rs> </p>
+                          </div>
+                      </div>
+                      <div n="9_10" type="scholion">
+                          <div type="lemma">
+                              <p>LEMMA GOES HERE</p>
+                          </div>
+                          <div type="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.166</p>
+                          </div>
+                          <div type="comment">
+                              <p> ἀτιμαζων καταφρονῶν ⁑ </p>
+                          </div>
+                      </div>
+                      <div n="9_11" type="scholion">
+                          <div type="lemma">
+                              <p>LEMMA GOES HERE</p>
+                          </div>
+                          <div type="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.171</p>
+                          </div>
+                          <div type="comment">
+                              <p>αντι τοῦ <rs type="waw">ἑαυτὸν</rs></p>
                           </div>
                       </div>
                   </div>
