@@ -30,7 +30,50 @@
                           <p>απειλῇ</p>
                       </div>
                   </div>
-
+                  <div n="9_2" type="scholion">
+                      <div type="lemma">
+                          <p></p>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.133</p>
+                      </div>
+                      <div type="comment">
+                          <p>μη οργίζου</p>
+                      </div>
+                  </div>
+                  <div n="9_3" type="scholion">
+                      <div type="lemma">
+                          <p></p>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.140</p>
+                      </div>
+                      <div type="comment">
+                          <p><choice><abbr>παραυτ</abbr><expan>παραυτὰ</expan></choice> <choice><abbr>ευθ</abbr><expan>εὐθύς</expan></choice>⁑</p>
+                      </div>
+                  </div>
+                  <div n="9_4" type="scholion">
+                      <div type="lemma">
+                          <p></p>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.145</p>
+                      </div>
+                      <div type="comment">
+                          <p>αμφίχυετον</p>
+                      </div>
+                  </div>
+                  <div n="9_5" type="scholion">
+                      <div type="lemma">
+                          <p></p>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.148</p>
+                      </div>
+                      <div type="comment">
+                          <p>διώξειεν ⁑</p>
+                      </div>
+                  </div>
                 </body>
             </text>
         </group>
