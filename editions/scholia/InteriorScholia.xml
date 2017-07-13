@@ -30,7 +30,28 @@
                           <p>ὅτι αντι τοῦ <rs type="waw">ἐπευθείας καὶ καταντίον</rs> ⁑</p>
                       </div>
                   </div>
-
+                  <div n="9_2" type="scholion">
+                      <div type="lemma">
+                          <p>LEMMA GOES HERE</p>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.155</p>
+                      </div>
+                      <div type="comment">
+                          <p>κατ ένια δια τοῦ <rs type="waw">ο</rs> <rs type="waw">όκνεον</rs> </p>
+                      </div>
+                  </div>
+                  <div n="9_3" type="scholion">
+                      <div type="lemma">
+                          <p>LEMMA GOES HERE</p>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.170</p>
+                      </div>
+                      <div type="comment">
+                          <p>γράφεται ἀμφοτέρωσε ἔν τισι οὺ φαύλως ⁑⁑ </p>
+                      </div>
+                  </div>
                 </body>
             </text>
         </group>
