@@ -63,7 +63,7 @@
                           <p>γράφεται <rs type="waw">διελθέμεν</rs> ⁑</p>
                       </div>
                   </div>
-                  div n="9_5" type="scholion">
+                <div n="9_5" type="scholion">
                       <div type="lemma">
                           <p>LEMMA GOES HERE</p>
                       </div>
@@ -73,7 +73,44 @@
                       <div type="comment">
                           <p><persName n="urn:cite2:hmt:pers:pers16">Αρισταρχος</persName> άμυδις στήσασα</p>
                       </div>
+                      <div n="9_6" type="scholion">
+                          <div type="lemma">
+                              <p>LEMMA GOES HERE</p>
+                          </div>
+                          <div type="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.</p>
+                          </div>
+                          <div type="comment">
+                              <p> <choice><abbr> λ </abbr> <expan> λείπει </expan></choice> ἡ <rs type="waw">πρός</rs> </p>
+                          </div>
+                      </div>
+                      <div n="9_7" type="scholion">
+                          <div type="lemma">
+                              <p>LEMMA GOES HERE</p>
+                          </div>
+                          <div type="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.138</p>
+                          </div>
+                          <div type="comment">
+                              <p> <persName n="urn:cite2:hmt:pers:pers16">Αρισταρχος</persName> προκρίνει τὴν δια τοῦ  <rs type="waw">ω</rs>  γραφὴν γράφεσθαι δὲ φησὶν καὶ δια τοῦ
+                              <rs type="waw">η</rs> <rs type="waw">ἄρχηισι </rs> ⁑
+                          </p>
+                          </div>
+                      </div>
+                      <div n="9_8" type="scholion">
+                          <div type="lemma">
+                              <p>LEMMA GOES HERE</p>
+                          </div>
+                          <div type="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.143</p>
+                          </div>
+                          <div type="comment">
+                              <p> γράφεται <rs type="waw">ἀναγκαίηφι</rs> ⁑
+                </p>
+                          </div>
+                      </div>
                   </div>
+
                 </body>
             </text>
         </group>
