@@ -192,7 +192,56 @@
                               <p>unr:cts:greekLit:tlg0012.tlg001:20.147</p>
                           </div>
                           <div type="comment">
-                              <p>ὅτι οὕτως εἴρηκε σὺν τῷ ἄρθρω τὸ <rs type="waw">κῆτος</rs> ὡ παραδεδομένης τῆς ἱστορίας τῆς περι τοῦ κήτους ⁑ 
+                              <p>ὅτι οὕτως εἴρηκε σὺν τῷ ἄρθρω τὸ <rs type="waw">κῆτος</rs> ὡ παραδεδομένης τῆς ἱστορίας τῆς περι τοῦ κήτους ⁑
+                             </p>
+                          </div>
+                        </div>
+                        <div n="9_14" type="scholion">
+                          <div type="lemma">
+                              <p>‡ ἀμφι σὲ ἣϊε <persName n="urn:cite2:hmt:pers:pers40">Φοῖβε</persName></p>
+                          </div>
+                          <div type="ref">
+                              <p>unr:cts:greekLit:tlg0012.tlg001:20.152</p>
+                          </div>
+                          <div type="comment">
+                              <p>ὀρθοτονητέον τὴν ἀντωνυμίαν ὁμοῖως τῷ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:20.2</ref><q>ἀμφι σὲ <persName n="urn:cite2:hmt:pers:pers184">Πηλεος</persName> υἱέ </q></cit> ⁑
+                             </p>
+                          </div>
+                        </div>
+                        <div n="9_15" type="scholion">
+                          <div type="lemma">
+                              <p>ἀνδρῶν ἠδ' ἵππων:</p>
+                          </div>
+                          <div type="ref">
+                              <p>unr:cts:greekLit:tlg0012.tlg001:20.157</p>
+                          </div>
+                          <div type="comment">
+                              <p>καὶ τοῦτο ταχ άν τις τοῖς ἑξῆς συνάπτοι τὸ δὲ ὑπερβατὸν οὐκ εὖ ἔχει ⁑
+                             </p>
+                          </div>
+                        </div>
+                        <div n="9_16" type="scholion">
+                          <div type="lemma">
+                              <p>ἀγρόμενοι πᾶς δῆμος:</p>
+                          </div>
+                          <div type="ref">
+                              <p>unr:cts:greekLit:tlg0012.tlg001:20.166</p>
+                          </div>
+                          <div type="comment">
+                              <p>προς τὸ σχῆμα ὅτι δῆμος ἀγρόμενοι ἐπεὶ ὁ δῆμος ἔννοιαν πληθυντικὴν ἔχει ⁑
+                             </p>
+                          </div>
+                        </div>
+                        <div n="9_17" type="scholion">
+                          <div type="lemma">
+                              <p>ἑὲ δ' αὐτὸν.</p>
+                          </div>
+                          <div type="ref">
+                              <p>unr:cts:greekLit:tlg0012.tlg001:20.171</p>
+                          </div>
+                          <div type="comment">
+                              <p>ἡ <rs type="waw">ε</rs> τοῦ τρίτου προσώπου ἀντωνυμία ἐπλεόνασε κατ ἀρχὴν
+                              ὥσπερ ἐπι τοῦ <rs type="waw">ἑὸν</rs> <rs type="waw">ἑοῦ</rs> <rs type="waw">ἑῷ</rs> ἅμα δὲ τῷ πλεονασμῷ μετέβη καὶ τὸ πνευμα ⁑
                              </p>
                           </div>
                         </div>
