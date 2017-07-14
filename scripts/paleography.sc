@@ -31,13 +31,13 @@ object Paleography {
     report .append("| Record | Reading     | Image     |\n| :------------- | :------------- |\n")
 
 
-    val iliadDataFile = repoDirectory + "paleography/paleography-scholia.cex"
+    val dataFile = repoDirectory + "paleography/paleography-scholia.cex"
     // read file, dropping header
-    val iliadLines = Source.fromFile(iliadDataFile).getLines.toVector.drop(1)
+    val lines = Source.fromFile(dataFile).getLines.toVector.drop(1)
     //urn, text, image
 
   ///VA012RN-0013.tif&RGN=0.172,0.0998,0.058,0.0218&WID=9000&CVT=JPEG
-    for (entry <- iliadLines) {
+    for (entry <- lines) {
       val columns = entry.split("#")
       val urn : Try[Cite2Urn] = Try(Cite2Urn(columns(0)))
       val txt : Try[CtsUrn] = Try(CtsUrn(columns(1)))
