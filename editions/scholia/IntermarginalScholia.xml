@@ -143,8 +143,52 @@
                               <p>αντι τοῦ <rs type="waw">ἑαυτὸν</rs></p>
                           </div>
                       </div>
+                      <div n="9_12" type="scholion">
+                          <div type="lemma">
+                              <p>LEMMA GOES HERE</p>
+                          </div>
+                          <div type="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.185</p>
+                          </div>
+                          <div type="comment">
+                              <p>γράφεται <rs type="waw">καλὸν</rs></p>
+                          </div>
+                      </div>
+                      <div n="9_13" type="scholion">
+                          <div type="lemma">
+                              <p>LEMMA GOES HERE</p>
+                          </div>
+                          <div type="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.188</p>
+                          </div>
+                          <div type="comment">
+                              <p>η <persName n="urn:cite2:hmt:pers:pers85">Ριανοῦ</persName> καὶ <persName n="urn:cite2:hmt:pers:pers21">Ἀριστοφάνης</persName>
+                            <rs type="waw">βοῶν ἔπι</rs> οὐκ αχαρίστως ⁑ </p>
+                          </div>
+                      </div>
+                      <div n="9_14" type="scholion">
+                          <div type="lemma">
+                              <p>LEMMA GOES HERE</p>
+                          </div>
+                          <div type="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.193</p>
+                          </div>
+                          <div type="comment">
+                              <p>αιχμαλώτονι</p>
+                          </div>
+                      </div>
+                      <div n="9_15" type="scholion">
+                          <div type="lemma">
+                              <p>LEMMA GOES HERE</p>
+                          </div>
+                          <div type="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.195</p>
+                          </div>
+                          <div type="comment">
+                              <p>οὕτως <persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> <rs type="waw">ερύεσθαι</rs> χωρις τοῦ <rs type="waw">σε</rs></p>
+                          </div>
+                      </div>
                   </div>
-
                 </body>
             </text>
         </group>
